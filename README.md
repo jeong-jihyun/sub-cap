@@ -1,4 +1,4 @@
-# SubCap (자막기록)
+# sub-cap (자막기록)
 
 EBS 같은 강연 영상을 재생하면, 화면에 나오는 자막을 폰이 자동으로 읽어 기록해 주는 안드로이드 앱입니다.
 개발 언어는 **Java**, 빌드 도구는 **Gradle**(Android Gradle Plugin 8.5.2, Gradle 8.7)입니다.
