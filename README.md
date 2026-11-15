@@ -6,7 +6,7 @@ EBS 같은 강연 영상을 재생하면, 화면에 나오는 자막을 폰이 �
 ## 프로젝트 구조
 
 ```
-SubCap/
+sub-cap/
 ├── settings.gradle                 프로젝트 이름, 모듈(:app) 선언
 ├── build.gradle                    플러그인 버전 선언 (최상위)
 ├── gradle.properties               Gradle 옵션 (AndroidX 사용 등)
